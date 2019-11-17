@@ -45,9 +45,11 @@ is packaged in an installer and complete zip file.
 
 *	TeamSpeak Portable is an online installation of [TeamSpeak](https://TeamSpeak.com/), developed by the [TeamSpeak team](https://TeamSpeak.com/).
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
+*	[SilentCMD](https://github.com/stbrenner/SilentCMD) for hidding the command prompt by [Stephan Brenner](https://github.com/stbrenner).
 
 ## License
 
 *	TeamSpeak Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/TeamSpeakPortable/master/LICENSE).
 *	PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/TeamSpeakPortable/master/TeamSpeakPortable/Other/Source/LauncherLicense.txt).
 *	TeamSpeak [EULA](https://raw.githubusercontent.com/Makazzz/TeamSpeakPortable/master/TeamSpeakPortable/App/AppInfo/EULA.txt).
+*	SilentCMD released with the [MIT license](https://raw.githubusercontent.com/stbrenner/SilentCMD/master/LICENSE)
