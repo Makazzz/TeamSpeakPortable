@@ -1,5 +1,11 @@
+# Ignore App folder
+TeamSpeakPortable/App/TeamSpeak
+
 # Ignore Data folder
 TeamSpeakPortable/Data
 
 # Ignore Work folder
 Work
+
+# Ignore log
+pac_installer_log.ini
